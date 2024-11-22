@@ -1,6 +1,6 @@
-import React from 'react';
-import CanvasScene from './containers/CanvaScene';
-import { createGlobalStyle } from 'styled-components';
+import React from "react";
+import CanvasScene from "./containers/CanvaScene";
+import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
   @font-face {

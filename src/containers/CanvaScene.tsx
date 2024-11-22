@@ -1,7 +1,7 @@
-import React from 'react';
-import { Canvas } from '@react-three/fiber';
-import { OrbitControls, Box } from '@react-three/drei';
-import styled from 'styled-components';
+import React from "react";
+import { Canvas } from "@react-three/fiber";
+import { OrbitControls, Box } from "@react-three/drei";
+import styled from "styled-components";
 
 const CanvasContainer = styled.div`
   width: 100vw;
